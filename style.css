@@ -1,0 +1,6 @@
+<style>
+    #foo {      /*#がidを示す *にしたら、すべての選択　*/
+        font-size: 60px;
+        color: red;
+    }
+</style>
